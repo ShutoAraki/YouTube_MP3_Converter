@@ -40,3 +40,14 @@ pip install pyaudio
 
 You can add these MP3 files to your Spotify playlist using Local Files on your Spotify Desktop app. See [here](https://support.spotify.com/us/using_spotify/features/listen-to-local-files/) for more details.
 
+## Future enhancements
+
+So far, there are only 39 lines of Python script. Obviously this is my one-night project, but please contribute and make it better!
+
+- Write a bash script so that you don't have to copy and paste the title every time (or find/create a way to crop the MP3 with only `youtube-dl`).
+
+- Add the songs to your Spotify playlist using Spotify Web API.
+
+- Make this script a web app.
+
+- Develop a Machine Learning model to detect when a song starts and ends in a video.
