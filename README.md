@@ -24,7 +24,7 @@ pip install pyaudio
 
 ![](https://media.giphy.com/media/db4aSg19d4aI8RJnuI/giphy.gif)
 
-0. Type `python youtube_mp3.py`
+0. Type `python youtube_mp3.py` in your Terminal/Command Prompt
 
 1. Copy the URL of your favorite video.
 
